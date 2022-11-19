@@ -2,9 +2,9 @@
 
 ## Index
 - [Description](#Description)
-- First Time Installation
-- How To Run
-- Screenshort
+- [First Time Installation](#First Time Installation)
+- [How To Run](#How To Run)
+- [Screenshort](#Screenshort)
 
 ## Description
 - This a Internship project by Sparks Foundation.
