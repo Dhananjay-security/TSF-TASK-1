@@ -43,15 +43,7 @@ Transaction Table Created Successfully.
 ```
 http://localhost/TSF-TASK-1/
 ```
-```
-- You will land to Homepage of Money Bank Website.
-- Click On `View all Customer` from Navigation OR `Get Started` button for viewing detail of all Customers.
-- You will see Customer details in table with deatils like(Name, Email, Current balance, etc.).
-- Click on `Send` Button Corresponding Any row of table.
-- Now We are on Money Transfering Page. Now Enter a Valid Name in `To` textbox and also Enter Amount, Click on checkbox and finally Click on `Send` Button To Start Transfer.
-- Make sure the Amount you enter is not grator then current balance of the Person Selected, else it will pop Message.
-- If the Transaction is successful Message will displayed and Changes made by above Transaction will be updated to customer table. 
-```
+
 ## Screenshots
 ![Screenshot from 2022-11-19 23-29-47](https://user-images.githubusercontent.com/114823844/202865356-dfceca8b-6152-41c2-b324-e0a0c728794d.png)
 ![Screenshot from 2022-11-19 23-30-01](https://user-images.githubusercontent.com/114823844/202865370-90b9a076-be67-42e0-9721-7a97158fa5aa.png)
